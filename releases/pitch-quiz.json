@@ -1,0 +1,17 @@
+{
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "version": "1.0",
+      "prerelease": false,
+      "published": "2026-10-27T14:44:17Z",
+      "url": "https://github.com/lnetzel/CHOMPI-pitch-quiz/releases/tag/v1.0.0",
+      "asset": "CHOMPI_Pitch_Quiz_v1.0.bin",
+      "asset_id": 681880225,
+      "asset_updated": "2026-10-27T14:43:53Z",
+      "download": "https://github.com/lnetzel/CHOMPI-pitch-quiz/releases/download/v1.0.0/CHOMPI_Pitch_Quiz_v1.0.bin",
+      "size": 90852,
+      "sha256": "9dc08a32ed02e5c50a75627c221ecaee832f224305258edfc6b5969e1b16f5f7"
+    }
+  ]
+}
