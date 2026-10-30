@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "tag": "v1.3.2",
+      "version": "1.3.2",
+      "prerelease": false,
+      "published": "2026-10-30T15:45:48Z",
+      "url": "https://github.com/theotherson/chompi-x0x/releases/tag/v1.3.2",
+      "asset": "chompi-x0x-v1_3_2.bin",
+      "asset_id": 692577346,
+      "asset_updated": "2026-10-30T15:45:46Z",
+      "download": "https://github.com/theotherson/chompi-x0x/releases/download/v1.3.2/chompi-x0x-v1_3_2.bin",
+      "size": 246820,
+      "sha256": "1240b22b53357f3204d9505bf516d791864f10f85f3ace888c3fcff7ef628031"
+    },
+    {
+      "tag": "v1.3.1",
+      "version": "1.3.1",
+      "prerelease": false,
+      "published": "2026-10-30T14:56:00Z",
+      "url": "https://github.com/theotherson/chompi-x0x/releases/tag/v1.3.1",
+      "asset": "chompi-x0x-v1_3_1.bin",
+      "asset_id": 692441201,
+      "asset_updated": "2026-10-30T14:55:59Z",
+      "download": "https://github.com/theotherson/chompi-x0x/releases/download/v1.3.1/chompi-x0x-v1_3_1.bin",
+      "size": 246448,
+      "sha256": "38bebbc7e6a16c2e63bb88ef9a0fca58ddc3f0f35515bd10f6a898c890edafcf"
+    },
+    {
       "tag": "v1.3.0",
       "version": "1.3.0",
       "prerelease": false,
