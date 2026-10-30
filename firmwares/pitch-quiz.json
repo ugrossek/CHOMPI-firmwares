@@ -1,12 +1,12 @@
 {
   "title": "Pitch Quiz",
-  "card": "Pitch Quiz",
+  "card": "PITCH-QUIZ",
   "author": "lnetzel",
   "summary": "Can you hear the correct note?",
-  "folder": "pitch-quiz",
+  "folder": "PITCH-QUIZ",
   "maintainers": ["lnetzel"],
   "source": {
     "repo": "lnetzel/CHOMPI-pitch-quiz",
-    "asset": "^CHOMPI_Pitch_Quiz(?P<v>[\\d.]+)\\.bin$"
+    "asset": "^CHOMPI_Pitch_Quiz_v(?P<v>[\\d.]+)\\.bin$"
   }
 }

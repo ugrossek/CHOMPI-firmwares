@@ -423,6 +423,12 @@ def cmd_check(args):
     out, errors = [], 0
     pr_author = (args.author or "").lower()
     changed = set(args.changed or entries)
+    # Only firmwares/<id>.json is read: anything else there would be skipped without a word.
+    for p in sorted(ENTRIES.iterdir()):
+        if p.suffix != ".json":
+            errors += 1
+            out.append(f"### `firmwares/{p.name}`")
+            out.append(f"- :x: not read: an entry must be `firmwares/<id>.json`")
     for eid in sorted(changed):
         if eid not in entries:
             out.append(f"### `{eid}`: removed")
