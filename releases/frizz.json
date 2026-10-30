@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "tag": "1.6.0-beta.5",
+      "version": "1.6.0-beta.5",
+      "prerelease": true,
+      "published": "2026-10-30T00:00:00Z",
+      "url": "https://pumpwerker.de/frizz/changelog/",
+      "asset": "FRIZZ.bin",
+      "asset_id": "https://pumpwerker.de/frizz/download/v1.6.0-beta.5/FRIZZ.bin",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
+      "download": "https://pumpwerker.de/frizz/download/v1.6.0-beta.5/FRIZZ.bin",
+      "size": 313540,
+      "sha256": "a5abd93cfde9415a78ee0981496ca55eeeafaf42e4b7f28c050efed2b1081359"
+    },
+    {
       "tag": "1.6.0-beta.4",
       "version": "1.6.0-beta.4",
       "prerelease": true,
@@ -8,7 +21,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.6.0-beta.4/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.6.0-beta.4/FRIZZ.bin",
       "size": 310500,
       "sha256": "6ea5a708fe94f9fcaae10fc04225ff7b2b188941313acaf2ec6e983c6b603d51"
@@ -21,7 +34,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.6.0-beta.3/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.6.0-beta.3/FRIZZ.bin",
       "size": 305748,
       "sha256": "ac16b574300779b2f6a375c423aa75e7b7698e83f499db2614489ce33d876c5e"
@@ -34,7 +47,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.6.0-beta.2/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.6.0-beta.2/FRIZZ.bin",
       "size": 292292,
       "sha256": "1367813f2bfcea2053770fc4b34cc0a315e83e633a573f48a2b291c32162a3c3"
@@ -47,7 +60,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.6.0-beta.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.6.0-beta.1/FRIZZ.bin",
       "size": 291180,
       "sha256": "d46430864b6d525fda349cbe17d663a437c57ac0be3230c0106194bb0e52b316"
@@ -60,7 +73,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v150-2026-10-25",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0/FRIZZ.bin",
       "size": 282876,
       "sha256": "f8ef86a2e27f7e5730c9fe0a900d945d0d068436a7623da4666fd5a71d1f3af1"
@@ -73,7 +86,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.12/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.12/FRIZZ.bin",
       "size": 282876,
       "sha256": "4da34b725ebe589538afaf51ed0f8dfbf97d7b540213e46bb5aaf38732d8750a"
@@ -86,7 +99,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.11/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.11/FRIZZ.bin",
       "size": 281996,
       "sha256": "a10167ef7d73773ee07e3adbf5696c43ad5791bd6733541478b6bd1140796c5b"
@@ -99,7 +112,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.10/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.10/FRIZZ.bin",
       "size": 271156,
       "sha256": "c4f1654df334f5dcf2651953d750338be69dafd29410f08ccf6a94ac656b7f85"
@@ -112,7 +125,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.9/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.9/FRIZZ.bin",
       "size": 269796,
       "sha256": "a6840c46064ed19892bdfed62c3e11eb92a2f7a820a2c09251f876d8ff6e76d9"
@@ -125,7 +138,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.8/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.8/FRIZZ.bin",
       "size": 266884,
       "sha256": "5232603057f6c067a5296cdfcde27b62b617f7e23de8052477e366d39dbff868"
@@ -138,7 +151,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.7/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.7/FRIZZ.bin",
       "size": 268940,
       "sha256": "ec37d0bb747806d68d5e84c4a159e7f8834c67db1193470f6a771bfd3c4f7920"
@@ -151,7 +164,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.6/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.6/FRIZZ.bin",
       "size": 273748,
       "sha256": "ff4b82f15cbba0c4c23d6e57225161151e3fc54894626cad0a7552a75641fe86"
@@ -164,7 +177,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.5/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.5/FRIZZ.bin",
       "size": 274724,
       "sha256": "3e47da0c6212e71d0def5869041591792cb7c694071aca5504e33469e51f7e41"
@@ -177,7 +190,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.4/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.4/FRIZZ.bin",
       "size": 273188,
       "sha256": "478cf6748695b96d92d0773e1f1125d6a060c2c1dce457728e1ddbe5af5a4f52"
@@ -190,7 +203,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.3/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.3/FRIZZ.bin",
       "size": 272492,
       "sha256": "7d26a61c5f3423b51d0da6e0cf18e7ae5ca50c95214879a4d2edd5c610f1da8c"
@@ -203,7 +216,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.2/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.2/FRIZZ.bin",
       "size": 272060,
       "sha256": "0130cc9f42cc39e45bb3fb9be9e29c5adacb5170949b7692f785f48f24f3d464"
@@ -216,7 +229,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.5.0-beta.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.5.0-beta.1/FRIZZ.bin",
       "size": 275380,
       "sha256": "0246bc959ed0a1afc476c25a165d5c4fa21aa9c020b2bf430ca1e08cbdd84b0b"
@@ -229,7 +242,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v101-2026-10-13",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.1/FRIZZ.bin",
       "size": 248344,
       "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
@@ -242,7 +255,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v100-2026-10-13",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.0/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.0/FRIZZ.bin",
       "size": 248344,
       "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
@@ -255,7 +268,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.0-beta.4/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.0-beta.4/FRIZZ.bin",
       "size": 248344,
       "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
@@ -268,7 +281,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.0-beta.3/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.0-beta.3/FRIZZ.bin",
       "size": 248344,
       "sha256": "ecc960a1cac0fecd516d28338766c60b6a93601048841765d055e0ac651c509e"
@@ -281,7 +294,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.0-beta.2/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.0-beta.2/FRIZZ.bin",
       "size": 247864,
       "sha256": "eccb9d83e3cef8831c6842ca2c5dfbdcde5fb3ae7d6ef1f1b85ad2ee236c9084"
@@ -294,7 +307,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v1.0.0-beta.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v1.0.0-beta.1/FRIZZ.bin",
       "size": 246016,
       "sha256": "7133c274b716b9ed031c63f746ab23937499d75acb304aa28e7840763d6d7c23"
@@ -307,7 +320,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.12-beta.2/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.12-beta.2/FRIZZ.bin",
       "size": 241520,
       "sha256": "ec62cf260f21a32d3cc688469c596a0aa17b7bb1e6444ebfff0d625ba866086d"
@@ -320,7 +333,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.12-beta.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.12-beta.1/FRIZZ.bin",
       "size": 226956,
       "sha256": "3e3053e69bfcc81d315b605d0f23bc39c115029cc8b00f63913f4766aa29acb3"
@@ -333,7 +346,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v011-2026-10-10",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.11/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.11/FRIZZ.bin",
       "size": 214124,
       "sha256": "e061a65a632be45dbe226ac1c042cc7d0b1e78be9b85f1da01312152d3c8feda"
@@ -346,7 +359,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v010-2026-10-08",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10/FRIZZ.bin",
       "size": 195252,
       "sha256": "94794ec5f1de3ccd5c4cee60428cfd56018ef2ccfd2eed513e74dd41cf79a8ff"
@@ -359,7 +372,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.6/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.6/FRIZZ.bin",
       "size": 195252,
       "sha256": "94794ec5f1de3ccd5c4cee60428cfd56018ef2ccfd2eed513e74dd41cf79a8ff"
@@ -372,7 +385,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.5/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.5/FRIZZ.bin",
       "size": 193892,
       "sha256": "fe142918b7f989451a8056b28e4fcd4e07db918a10dd3889c4d20094b1e7a4b4"
@@ -385,7 +398,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.4/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.4/FRIZZ.bin",
       "size": 194020,
       "sha256": "54e7f42ad20d0286cf823ab8dc45a379dc3be51aca4c4c63d1ed5545007067a7"
@@ -398,7 +411,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.3/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.3/FRIZZ.bin",
       "size": 194012,
       "sha256": "9e262d0c2adfede7b91df6f2cc829ae2fa542adf0a9152a0d8f13e66258bb805"
@@ -411,7 +424,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.2/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.2/FRIZZ.bin",
       "size": 193796,
       "sha256": "3003e10103494c8000c9c2e714e5e9e1f3498c5a0db7dd030daedef533f43094"
@@ -424,7 +437,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.10-beta.1/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.10-beta.1/FRIZZ.bin",
       "size": 203572,
       "sha256": "9ae3eb3cb32975ea861e3c56dee8091416daf98da4671b11a26f911633541011"
@@ -437,7 +450,7 @@
       "url": "https://pumpwerker.de/frizz/changelog/#v09-2026-10-06",
       "asset": "FRIZZ.bin",
       "asset_id": "https://pumpwerker.de/frizz/download/v0.9/FRIZZ.bin",
-      "asset_updated": "Thu, 29 Oct 2026 16:56:06 GMT",
+      "asset_updated": "Fri, 30 Oct 2026 02:28:52 GMT",
       "download": "https://pumpwerker.de/frizz/download/v0.9/FRIZZ.bin",
       "size": 205300,
       "sha256": "bd8ffca97db5b3431a94ae68f78814fcb1e97b8f5078d26915d882f7461a6397"
