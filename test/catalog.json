@@ -1,0 +1,1121 @@
+{
+ "about": "Firmwares the CHOMPI setup page offers. Built from firmwares/*.json and their releases by tools/firmwares.py. 'checked': the author maintains the entry. 'previous': earlier versions, so the page recognises them on a card.",
+ "firmwares": [
+  {
+   "id": "tape",
+   "title": "TAPE",
+   "card": "TAPE",
+   "version": "2.0",
+   "stage": "stock",
+   "author": "CHOMPI Club",
+   "authorUrl": "https://github.com/CHOMPI-Club/CHOMPI",
+   "summary": "The sampler and looper CHOMPI ships with.",
+   "url": "https://github.com/sfaber02/CHOMPI-MULTI-FIRMWARE/releases/tag/launcher-v1.3",
+   "released": "2026-10-04",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/tape/TAPE-2.0.bin",
+   "size": 240620,
+   "sha256": "971eec1a228596fdc64d0dc7910f9f0f14bc0eaac7442dccafa195e8b29c3bb6",
+   "checked": true,
+   "folder": "TAPE",
+   "slot": 1,
+   "color": "#FF8A00"
+  },
+  {
+   "id": "tempo",
+   "title": "TEMPO",
+   "card": "TEMPO",
+   "version": "1.0",
+   "stage": "stock",
+   "author": "CHOMPI Club",
+   "authorUrl": "https://github.com/CHOMPI-Club/CHOMPI",
+   "summary": "Drum machine and sequencer.",
+   "url": "https://github.com/sfaber02/CHOMPI-MULTI-FIRMWARE/releases/tag/launcher-v1.3",
+   "released": "2026-10-04",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/tempo/TEMPO-1.0.bin",
+   "size": 263624,
+   "sha256": "367ece787564f243ac0128f0c63611d2d986314d0c601a2ddddf0ae7d7c1857f",
+   "checked": true,
+   "folder": "TEMPO",
+   "slot": 2,
+   "color": "#FF6FAE"
+  },
+  {
+   "id": "wave",
+   "title": "WAVE",
+   "card": "WAVE",
+   "version": "1.0",
+   "stage": "stock",
+   "author": "CHOMPI Club",
+   "authorUrl": "https://github.com/CHOMPI-Club/CHOMPI",
+   "summary": "Wavetable synthesizer.",
+   "url": "https://github.com/sfaber02/CHOMPI-MULTI-FIRMWARE/releases/tag/launcher-v1.3",
+   "released": "2026-10-04",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/wave/WAVE-1.0.bin",
+   "size": 200664,
+   "sha256": "3076676085b002820ee00ec1861b1ec81bde840403e0b95ea8718df5377c3453",
+   "checked": true,
+   "folder": "WAVE",
+   "slot": 3,
+   "color": "#2F6BFF"
+  },
+  {
+   "id": "usb-storage",
+   "title": "USB storage",
+   "card": "USB_STORAGE",
+   "version": "1.5",
+   "stage": "stock",
+   "author": "lnetzel",
+   "authorUrl": "https://github.com/lnetzel",
+   "summary": "Shows the SD card as a drive on your computer, so you can copy samples without taking the card out.",
+   "url": "https://github.com/sfaber02/CHOMPI-MULTI-FIRMWARE/releases/tag/launcher-v1.3",
+   "released": "2026-10-04",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/usb-storage/USB_STORAGE-1.5.bin",
+   "size": 91392,
+   "sha256": "e50ba8eb16bb46f83da9831c116b9401cf9d7d5e5aaeb6841875f640d8638f02",
+   "checked": true,
+   "slot": 15,
+   "color": "#00D15A"
+  },
+  {
+   "id": "frizz",
+   "title": "FRIZZ",
+   "card": "FRIZZ",
+   "version": "2.0.0",
+   "stage": "release",
+   "author": "ZUHcYa",
+   "authorUrl": "https://pumpwerker.de/frizz/",
+   "summary": "A stereo effects box and looper for whatever you plug into AUX: twelve punch-in effects on the keys, FX scenes and MIDI-synced loops.",
+   "url": "https://pumpwerker.de/frizz/changelog/#v200-2026-11-16",
+   "released": "2026-11-17",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/frizz/FRIZZ-2.0.0.bin",
+   "size": 320336,
+   "sha256": "37d013ad1e1069ae499ee436487892139887a5cb2c3086b91cb324364d3c6488",
+   "checked": true,
+   "folder": "FRIZZ",
+   "color": "#8A4DFF",
+   "previous": [
+    {
+     "version": "2.0.0-beta.3",
+     "size": 318368,
+     "sha256": "5f330f1f730a6d88ecfd5d27f5c2e86d6596bbb8c295a6350e2852087f75d71a"
+    },
+    {
+     "version": "2.0.0-beta.2",
+     "size": 374408,
+     "sha256": "3a80bfdd5909228ac0f4559763a9d0b750123ee0ded213cb6e21971a28a8129c"
+    },
+    {
+     "version": "2.0.0-beta.1",
+     "size": 310516,
+     "sha256": "3516f879c28f7d07277f2bf95a455068010af4b0b4f2ec3f9d0117c97825ed41"
+    },
+    {
+     "version": "1.6.0-beta.10",
+     "size": 319460,
+     "sha256": "1ac59d673286f7b15e36fa72bbca04ea236d841a6175c2cf664a06eaf96f932d"
+    },
+    {
+     "version": "1.6.0-beta.9",
+     "size": 319020,
+     "sha256": "df1e3a506c2e181eae90ad5ab0b78dde7333f269dcd846c32c80a76bf46cf5df"
+    },
+    {
+     "version": "1.6.0-beta.8",
+     "size": 318844,
+     "sha256": "85ecf31b56d49ddccb51616512074555ad3fc1cdcd0397e5096f67663333299d"
+    },
+    {
+     "version": "1.6.0-beta.7",
+     "size": 316716,
+     "sha256": "51e1a28a55eba3e39bc220addf15b0d9d1ee71a8b34b1418d5b352f0e602d3f3"
+    },
+    {
+     "version": "1.6.0-beta.6",
+     "size": 315612,
+     "sha256": "4533b05cbbedbb1e7bfcd2bf97472ad17ca27fd370c6f2b187ed867196fe5aeb"
+    },
+    {
+     "version": "1.6.0-beta.5",
+     "size": 313540,
+     "sha256": "a5abd93cfde9415a78ee0981496ca55eeeafaf42e4b7f28c050efed2b1081359"
+    },
+    {
+     "version": "1.6.0-beta.4",
+     "size": 310500,
+     "sha256": "6ea5a708fe94f9fcaae10fc04225ff7b2b188941313acaf2ec6e983c6b603d51"
+    },
+    {
+     "version": "1.6.0-beta.3",
+     "size": 305748,
+     "sha256": "ac16b574300779b2f6a375c423aa75e7b7698e83f499db2614489ce33d876c5e"
+    },
+    {
+     "version": "1.6.0-beta.2",
+     "size": 292292,
+     "sha256": "1367813f2bfcea2053770fc4b34cc0a315e83e633a573f48a2b291c32162a3c3"
+    },
+    {
+     "version": "1.6.0-beta.1",
+     "size": 291180,
+     "sha256": "d46430864b6d525fda349cbe17d663a437c57ac0be3230c0106194bb0e52b316"
+    },
+    {
+     "version": "1.5.0",
+     "size": 282876,
+     "sha256": "f8ef86a2e27f7e5730c9fe0a900d945d0d068436a7623da4666fd5a71d1f3af1"
+    },
+    {
+     "version": "1.5.0-beta.12",
+     "size": 282876,
+     "sha256": "4da34b725ebe589538afaf51ed0f8dfbf97d7b540213e46bb5aaf38732d8750a"
+    },
+    {
+     "version": "1.5.0-beta.11",
+     "size": 281996,
+     "sha256": "a10167ef7d73773ee07e3adbf5696c43ad5791bd6733541478b6bd1140796c5b"
+    },
+    {
+     "version": "1.5.0-beta.10",
+     "size": 271156,
+     "sha256": "c4f1654df334f5dcf2651953d750338be69dafd29410f08ccf6a94ac656b7f85"
+    },
+    {
+     "version": "1.5.0-beta.9",
+     "size": 269796,
+     "sha256": "a6840c46064ed19892bdfed62c3e11eb92a2f7a820a2c09251f876d8ff6e76d9"
+    },
+    {
+     "version": "1.5.0-beta.8",
+     "size": 266884,
+     "sha256": "5232603057f6c067a5296cdfcde27b62b617f7e23de8052477e366d39dbff868"
+    },
+    {
+     "version": "1.5.0-beta.7",
+     "size": 268940,
+     "sha256": "ec37d0bb747806d68d5e84c4a159e7f8834c67db1193470f6a771bfd3c4f7920"
+    },
+    {
+     "version": "1.5.0-beta.6",
+     "size": 273748,
+     "sha256": "ff4b82f15cbba0c4c23d6e57225161151e3fc54894626cad0a7552a75641fe86"
+    },
+    {
+     "version": "1.5.0-beta.5",
+     "size": 274724,
+     "sha256": "3e47da0c6212e71d0def5869041591792cb7c694071aca5504e33469e51f7e41"
+    },
+    {
+     "version": "1.5.0-beta.4",
+     "size": 273188,
+     "sha256": "478cf6748695b96d92d0773e1f1125d6a060c2c1dce457728e1ddbe5af5a4f52"
+    },
+    {
+     "version": "1.5.0-beta.3",
+     "size": 272492,
+     "sha256": "7d26a61c5f3423b51d0da6e0cf18e7ae5ca50c95214879a4d2edd5c610f1da8c"
+    },
+    {
+     "version": "1.5.0-beta.2",
+     "size": 272060,
+     "sha256": "0130cc9f42cc39e45bb3fb9be9e29c5adacb5170949b7692f785f48f24f3d464"
+    },
+    {
+     "version": "1.5.0-beta.1",
+     "size": 275380,
+     "sha256": "0246bc959ed0a1afc476c25a165d5c4fa21aa9c020b2bf430ca1e08cbdd84b0b"
+    },
+    {
+     "version": "1.0.1",
+     "size": 248344,
+     "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
+    },
+    {
+     "version": "1.0.0",
+     "size": 248344,
+     "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
+    },
+    {
+     "version": "1.0.0-beta.4",
+     "size": 248344,
+     "sha256": "3f62f756a14483b20368be7adc1c5215c7608ff7e5c676797b9bfde9d17d2035"
+    },
+    {
+     "version": "1.0.0-beta.3",
+     "size": 248344,
+     "sha256": "ecc960a1cac0fecd516d28338766c60b6a93601048841765d055e0ac651c509e"
+    },
+    {
+     "version": "1.0.0-beta.2",
+     "size": 247864,
+     "sha256": "eccb9d83e3cef8831c6842ca2c5dfbdcde5fb3ae7d6ef1f1b85ad2ee236c9084"
+    },
+    {
+     "version": "1.0.0-beta.1",
+     "size": 246016,
+     "sha256": "7133c274b716b9ed031c63f746ab23937499d75acb304aa28e7840763d6d7c23"
+    },
+    {
+     "version": "0.12-beta.2",
+     "size": 241520,
+     "sha256": "ec62cf260f21a32d3cc688469c596a0aa17b7bb1e6444ebfff0d625ba866086d"
+    },
+    {
+     "version": "0.12-beta.1",
+     "size": 226956,
+     "sha256": "3e3053e69bfcc81d315b605d0f23bc39c115029cc8b00f63913f4766aa29acb3"
+    },
+    {
+     "version": "0.11",
+     "size": 214124,
+     "sha256": "e061a65a632be45dbe226ac1c042cc7d0b1e78be9b85f1da01312152d3c8feda"
+    },
+    {
+     "version": "0.10",
+     "size": 195252,
+     "sha256": "94794ec5f1de3ccd5c4cee60428cfd56018ef2ccfd2eed513e74dd41cf79a8ff"
+    },
+    {
+     "version": "0.10-beta.6",
+     "size": 195252,
+     "sha256": "94794ec5f1de3ccd5c4cee60428cfd56018ef2ccfd2eed513e74dd41cf79a8ff"
+    },
+    {
+     "version": "0.10-beta.5",
+     "size": 193892,
+     "sha256": "fe142918b7f989451a8056b28e4fcd4e07db918a10dd3889c4d20094b1e7a4b4"
+    },
+    {
+     "version": "0.10-beta.4",
+     "size": 194020,
+     "sha256": "54e7f42ad20d0286cf823ab8dc45a379dc3be51aca4c4c63d1ed5545007067a7"
+    },
+    {
+     "version": "0.10-beta.3",
+     "size": 194012,
+     "sha256": "9e262d0c2adfede7b91df6f2cc829ae2fa542adf0a9152a0d8f13e66258bb805"
+    },
+    {
+     "version": "0.10-beta.2",
+     "size": 193796,
+     "sha256": "3003e10103494c8000c9c2e714e5e9e1f3498c5a0db7dd030daedef533f43094"
+    },
+    {
+     "version": "0.10-beta.1",
+     "size": 203572,
+     "sha256": "9ae3eb3cb32975ea861e3c56dee8091416daf98da4671b11a26f911633541011"
+    },
+    {
+     "version": "0.9",
+     "size": 205300,
+     "sha256": "bd8ffca97db5b3431a94ae68f78814fcb1e97b8f5078d26915d882f7461a6397"
+    }
+   ]
+  },
+  {
+   "id": "circles",
+   "title": "CIRCLES",
+   "card": "CIRCLES",
+   "version": "1.0",
+   "stage": "release",
+   "author": "ugrossek",
+   "authorUrl": "https://github.com/ugrossek",
+   "summary": "Fifteen loopers that play together, each with its own instrument and loop length: keep a figure, pass it on, let the lengths drift.",
+   "url": "https://github.com/ugrossek/CHOMPI/releases/tag/circles-1.0",
+   "released": "2026-11-03",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/circles/CIRCLES-1.0.bin",
+   "size": 202260,
+   "sha256": "7ff2badcaa52cf5f8285efd9546ca1149b569cfa4d2b1aff4c97996edd8bb605",
+   "checked": true,
+   "color": "#FFFFFF"
+  },
+  {
+   "id": "pitch-quiz",
+   "title": "Pitch Quiz",
+   "card": "PITCH-QUIZ",
+   "version": "2.0",
+   "stage": "release",
+   "author": "lnetzel",
+   "authorUrl": "https://github.com/lnetzel",
+   "summary": "Can you hear the correct note?",
+   "url": "https://github.com/lnetzel/CHOMPI-pitch-quiz/releases/tag/v2.0.0",
+   "released": "2026-10-31",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/pitch-quiz/PITCH-QUIZ-2.0.bin",
+   "size": 94100,
+   "sha256": "2bfbf490867ccff30996786ab4944c906547aabc42114ca85bc8f8029f063367",
+   "checked": true,
+   "folder": "PITCH-QUIZ",
+   "previous": [
+    {
+     "version": "1.0",
+     "size": 90852,
+     "sha256": "9dc08a32ed02e5c50a75627c221ecaee832f224305258edfc6b5969e1b16f5f7"
+    }
+   ]
+  },
+  {
+   "id": "x0x",
+   "title": "x0x",
+   "card": "X0X",
+   "version": "1.3.2",
+   "stage": "release",
+   "author": "Jero",
+   "authorUrl": "https://github.com/theotherson",
+   "summary": "A TB-303-style acid bass line machine with a TR-606-style drum machine alongside, each with its own 16-step sequencer to program by step or record live.",
+   "url": "https://github.com/theotherson/chompi-x0x/releases/tag/v1.3.2",
+   "released": "2026-10-30",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/x0x/X0X-1.3.2.bin",
+   "size": 246820,
+   "sha256": "1240b22b53357f3204d9505bf516d791864f10f85f3ace888c3fcff7ef628031",
+   "checked": true,
+   "folder": "X0X",
+   "color": "#00D5E0",
+   "previous": [
+    {
+     "version": "1.3.1",
+     "size": 246448,
+     "sha256": "38bebbc7e6a16c2e63bb88ef9a0fca58ddc3f0f35515bd10f6a898c890edafcf"
+    },
+    {
+     "version": "1.3.0",
+     "size": 238924,
+     "sha256": "79c005b692c2dd8a65afb6f5490a96197b9211de3cc86e08761d83443f292f7c"
+    },
+    {
+     "version": "1.2.0",
+     "size": 233748,
+     "sha256": "397482cfc043e7d7a47fbed13525de84c564f858d920fe808f9ff60feb8cdf26"
+    },
+    {
+     "version": "1.1.1",
+     "size": 231648,
+     "sha256": "cf464a4576714dd1ffedb34caf8f1d8702ede65ea18fe855fabe9cfa5168200f"
+    },
+    {
+     "version": "1.0.2",
+     "size": 230572,
+     "sha256": "59c0f5cdfe8415cc347278339442d1627f140aaaf096cd334d5721f3287c0aba"
+    },
+    {
+     "version": "1.0.1",
+     "size": 229372,
+     "sha256": "3f638466de3b3531976d1c487d69640f24720eb2c487b0c9f9edb0393bdae3d2"
+    },
+    {
+     "version": "1.0.0",
+     "size": 229372,
+     "sha256": "3f638466de3b3531976d1c487d69640f24720eb2c487b0c9f9edb0393bdae3d2"
+    },
+    {
+     "version": "0.2.0",
+     "size": 270172,
+     "sha256": "28024394c47b0e3ea7e5b7b2e3e5b22ee125aacd0185b511a26da52892d904f0"
+    },
+    {
+     "version": "0.1.0",
+     "size": 208896,
+     "sha256": "285ba655fc2132bc287d48799026feddee23dfcc2803c3b12bd245ea1935cf20"
+    }
+   ]
+  },
+  {
+   "id": "pipes",
+   "title": "PIPES",
+   "card": "PIPES",
+   "version": "1.0",
+   "stage": "release",
+   "author": "lnetzel",
+   "authorUrl": "https://github.com/lnetzel",
+   "summary": "A six-voice organ with four pipe ranks, expressive tone shaping, modulation, effects, presets, and live recording.",
+   "url": "https://github.com/lnetzel/CHOMPI-Pipes/releases/tag/v1.0.0",
+   "released": "2026-10-21",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/pipes/PIPES-1.0.bin",
+   "size": 190800,
+   "sha256": "6e6b9166056c8cb164378bb72b71efcd5ba845f709b3301eeee392f63b6ef939",
+   "checked": true,
+   "folder": "PIPES"
+  },
+  {
+   "id": "mixtape",
+   "title": "MIXTAPE",
+   "card": "MIXTAPE",
+   "version": "20261016-6a6de0c",
+   "stage": "release",
+   "author": "Nils",
+   "authorUrl": "https://github.com/lost-tty",
+   "summary": "TAPE with undo, loop halving and doubling, a recording threshold, MIDI clock sync and a metronome.",
+   "url": "https://github.com/lost-tty/CHOMPI/releases/tag/mixtape-20261016-6a6de0c",
+   "released": "2026-10-16",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/mixtape/MIXTAPE-20261016-6a6de0c.bin",
+   "size": 251944,
+   "sha256": "d23c20aff1ec98e44d9a99b26a28e8fc720d3a21a47dbf7f5ea3cda4510f9006",
+   "checked": true,
+   "folder": "MIXTAPE",
+   "color": "#FFD600",
+   "previous": [
+    {
+     "version": "20261015-94a46d1",
+     "size": 246460,
+     "sha256": "59c09bae22a4e949ba3d19ad4ec965c20f92402f1a77b71371c3b79cd8fc925f"
+    },
+    {
+     "version": "20261015-de43432",
+     "size": 246460,
+     "sha256": "59c09bae22a4e949ba3d19ad4ec965c20f92402f1a77b71371c3b79cd8fc925f"
+    },
+    {
+     "version": "20261015-8bd1ba4",
+     "size": 246460,
+     "sha256": "59c09bae22a4e949ba3d19ad4ec965c20f92402f1a77b71371c3b79cd8fc925f"
+    },
+    {
+     "version": "20261013-279f8cf",
+     "size": 249672,
+     "sha256": "44a6fae57adc534acb1dda2ea0a0dbd91abd134f90768313fbc671504fb3a72f"
+    },
+    {
+     "version": "20261012-ef8552b",
+     "size": 238296,
+     "sha256": "14d3c6f0d79918d88f8078c044ca8f238e28a2397661e320b796d0ab9a171d1c"
+    },
+    {
+     "version": "20261011-b1bbdea",
+     "size": 238892,
+     "sha256": "431d064d06c563dddbf2509640fa597fd5182c858138ed5e8e3b03c39e614075"
+    },
+    {
+     "version": "20261011-908bafd",
+     "size": 236836,
+     "sha256": "d136382b0676e40ed510ce58c879a1cf7c3dd054d7aa7400f1a4565a7b7e72c8"
+    },
+    {
+     "version": "20261010-b1b9b8c",
+     "size": 236788,
+     "sha256": "94945c3a4f64eb74ab5bc5c0407b337b18bd00bb7c0f591b2b4ceae514d1236f"
+    },
+    {
+     "version": "20261010-0ec40b3",
+     "size": 232420,
+     "sha256": "e8180fe8bb5f1e5a14991a820dcfd2f4983148c35e46c12cdc7da4ecf36b38f0"
+    }
+   ]
+  },
+  {
+   "id": "sing",
+   "title": "SING",
+   "card": "SING",
+   "version": "beta-3",
+   "stage": "beta",
+   "author": "ugrossek",
+   "authorUrl": "https://github.com/ugrossek",
+   "summary": "An instrument led by your voice: press keys and sing, CHOMPI plays the keys' notes with your voice.",
+   "url": "https://github.com/ugrossek/CHOMPI/releases/tag/sing-beta-3",
+   "released": "2026-10-15",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/sing/SING-beta-3.bin",
+   "size": 183724,
+   "sha256": "0145b9aff91e26d594d86bd52621107503fecf83b2e92099b5036aac4e791e7c",
+   "checked": true,
+   "color": "#E62EE6",
+   "previous": [
+    {
+     "version": "beta-2",
+     "size": 183740,
+     "sha256": "21d0639403314bdb587fbb4646f634a0075827c6a19635f6b54ed3f2c8ffc913"
+    },
+    {
+     "version": "beta",
+     "size": 174348,
+     "sha256": "18fae1e5eab49f391a5b95cc0e9b1b088d1cc55e915aea722ee3c77bf27d5dfa"
+    }
+   ]
+  },
+  {
+   "id": "choowi",
+   "title": "Choowi",
+   "card": "CHOOWI",
+   "version": "0.20.0-rc3",
+   "stage": "release",
+   "author": "DeeCee",
+   "authorUrl": "https://myth-world.github.io/Forge/",
+   "summary": "A playable synth, sampler and looper that plays chords for you: harmony, arp, effects, Dream mode and sounds you describe to a chatbot (its sample pack is a separate download).",
+   "url": "https://github.com/myth-world/Forge/releases/tag/choowi-0.20.0-rc3",
+   "released": "2026-10-13",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/choowi/CHOOWI-0.20.0-rc3.bin",
+   "size": 256960,
+   "sha256": "59926f55a2a4f3d6de14bf6f9f9838cea3f0a9d7e4a3bb6b29e0e170161d1121",
+   "checked": true,
+   "folder": "FORGE",
+   "previous": [
+    {
+     "version": "0.19.2-rc2",
+     "size": 253264,
+     "sha256": "b96c2413c9858b788b85c253a76f3ba1464add6013128ea3dfc74ddb4d38f62d"
+    },
+    {
+     "version": "0.19.2-rc1",
+     "size": 256040,
+     "sha256": "2920c5803dcd73724de0be12661622f0662543b03308227317a0a45e5094a150"
+    }
+   ]
+  },
+  {
+   "id": "tape-lnetzel",
+   "title": "TAPE (lnetzel)",
+   "card": "TAPE_LNETZEL",
+   "version": "1.2",
+   "stage": "beta",
+   "author": "lnetzel",
+   "authorUrl": "https://github.com/lnetzel",
+   "summary": "TAPE with additions like undo last overdub, precise preset trimming, looper playback volume, paste-append and sample rate reducer fx.",
+   "url": "https://github.com/lnetzel/CHOMPI-lnetzel/releases/tag/TAPE-lnetzel-1.2",
+   "released": "2026-10-09",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/tape-lnetzel/TAPE_LNETZEL-1.2.bin",
+   "size": 241560,
+   "sha256": "e02a7bc042bc32a51c7e57f3c5f221c39deb7d6352a1876407322f678e87763f",
+   "checked": true,
+   "folder": "TAPE",
+   "color": "#FF2D2D",
+   "previous": [
+    {
+     "version": "1.1",
+     "size": 240736,
+     "sha256": "eb85e52ee1e7dd18b3cbd29891e830bcbd09bea8f52b5549cd8d11f042e6f8d1"
+    },
+    {
+     "version": "1.0",
+     "size": 238248,
+     "sha256": "5e45593605c30c1385f147f90b4c7a3f353756f9e7db85b8f6d827d33ac8af69"
+    }
+   ]
+  },
+  {
+   "id": "tehp",
+   "title": "TEHP",
+   "card": "TEHP",
+   "version": "alpha",
+   "stage": "alpha",
+   "author": "ugrossek",
+   "authorUrl": "https://github.com/ugrossek",
+   "summary": "TAPE where changing the pitch keeps the timing, on the keys and in the looper.",
+   "url": "https://github.com/ugrossek/CHOMPI/releases/tag/tehp-alpha",
+   "released": "2026-10-08",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/tehp/TEHP-alpha.bin",
+   "size": 238180,
+   "sha256": "2b4e363b9e6eddc099ac29453b475a4c286e49911c088018e5c12464ddfdd3a8",
+   "checked": true,
+   "folder": "TAPE",
+   "color": "#9CFF00"
+  },
+  {
+   "id": "hmmm",
+   "title": "HMMM",
+   "card": "HMMM",
+   "version": "beta",
+   "stage": "beta",
+   "author": "hiwatts",
+   "authorUrl": "https://github.com/sfaber02",
+   "summary": "A drone machine inspired by the SOMA Lyra-8: eight voices that frequency-modulate each other, a delay that sings by itself, and fuzz.",
+   "url": "https://github.com/sfaber02/chompi-hmmm/releases/tag/beta",
+   "released": "2026-10-04",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/hmmm/HMMM-beta.bin",
+   "size": 150600,
+   "sha256": "578c0b9f30ad17936cf564ebb48c8c99c1cd9ca73f5dc79f2683eb323ed7aa61",
+   "checked": true,
+   "folder": "HMMM",
+   "color": "#A8D8FF"
+  },
+  {
+   "id": "poly",
+   "title": "POLY",
+   "card": "POLY",
+   "version": "beta",
+   "stage": "beta",
+   "author": "hiwatts",
+   "authorUrl": "https://github.com/sfaber02",
+   "summary": "A four-oscillator analog-style synth inspired by the Korg Mono/Poly: mono or 6-voice poly, with filter, envelopes, LFO, arpeggiator, chorus, delay and reverb.",
+   "url": "https://github.com/sfaber02/chompi-poly/releases/tag/beta",
+   "released": "2026-10-03",
+   "file": "https://ugrossek.github.io/CHOMPI-firmwares/bin/poly/POLY-beta.bin",
+   "size": 182772,
+   "sha256": "5caa8c0c2ace0c15b65079104f9482f9192a1bded1b5967d0fdec523c053169e",
+   "checked": true,
+   "folder": "POLY",
+   "color": "#FFE3B0"
+  },
+  {
+   "id": "phymo",
+   "title": "PHYMO",
+   "card": "PHYMO",
+   "version": "1.0",
+   "stage": "release",
+   "author": "theotherson",
+   "authorUrl": "https://github.com/theotherson",
+   "summary": "An eight-voice physical-modelling synth: strings, bars, FM, bowed strings and voices.",
+   "url": "https://github.com/theotherson/chompi-phymo/releases/tag/v1.0",
+   "released": "2026-11-16",
+   "file": "bin/PHYMO-1.0.bin",
+   "size": 292228,
+   "sha256": "1b17347325fc254b05ea550891a8c82afe650ae6ade807b0163bd5709457e891",
+   "checked": true,
+   "folder": "PHYMO",
+   "files": [
+    {
+     "path": "PHYMO/BANK1/P01.txt",
+     "file": "bin/phymo-files/BANK1/P01.txt",
+     "size": 725,
+     "sha256": "a6c5c7f35a4de624411f9985c27a155fe047f47af8112c64a929af7137bed527"
+    },
+    {
+     "path": "PHYMO/BANK1/P02.txt",
+     "file": "bin/phymo-files/BANK1/P02.txt",
+     "size": 781,
+     "sha256": "a7dcb63cbedacc22d9bab7d111a889ee4617465cbc2f1c351c2d8d8cbf4c72c3"
+    },
+    {
+     "path": "PHYMO/BANK1/P03.txt",
+     "file": "bin/phymo-files/BANK1/P03.txt",
+     "size": 842,
+     "sha256": "e08f016c07102d8d663fa301904549e9a9633b98d2394bf02c618b87580dbff4"
+    },
+    {
+     "path": "PHYMO/BANK1/P04.txt",
+     "file": "bin/phymo-files/BANK1/P04.txt",
+     "size": 734,
+     "sha256": "aa075fcdb2ed80fea623c7e4ec3bb44ca637f8b5a3d627dac96dc08e653079a3"
+    },
+    {
+     "path": "PHYMO/BANK1/P05.txt",
+     "file": "bin/phymo-files/BANK1/P05.txt",
+     "size": 773,
+     "sha256": "efbd203041e2c41f3ba77ebc8d14cba9f0fe503763268659e2ee350f6984bd75"
+    },
+    {
+     "path": "PHYMO/BANK1/P06.txt",
+     "file": "bin/phymo-files/BANK1/P06.txt",
+     "size": 745,
+     "sha256": "431eb0148fbd1fd36c8eff71dd3bf58658d846cdd7ab68029171ecfacb2250d7"
+    },
+    {
+     "path": "PHYMO/BANK1/P07.txt",
+     "file": "bin/phymo-files/BANK1/P07.txt",
+     "size": 737,
+     "sha256": "6981de3d3aecc099db1b5bfb6cfc84554b4d8ab67171ace85d5dbc95007f7a37"
+    },
+    {
+     "path": "PHYMO/BANK1/P08.txt",
+     "file": "bin/phymo-files/BANK1/P08.txt",
+     "size": 774,
+     "sha256": "0332636b9ef22037e68e5f626114c15f70a26cf4f3e5c21849778dc275a76ff4"
+    },
+    {
+     "path": "PHYMO/BANK1/P09.txt",
+     "file": "bin/phymo-files/BANK1/P09.txt",
+     "size": 738,
+     "sha256": "9d05bcaa9984cb104b6f34d9b0d0f881db8a2c19fb7640d9fbb8b8e94aaf4424"
+    },
+    {
+     "path": "PHYMO/BANK1/P10.txt",
+     "file": "bin/phymo-files/BANK1/P10.txt",
+     "size": 728,
+     "sha256": "1d909428f96b2fb70038a8849c984384c6e9eaa821ed5277efda874a2ee8cbcb"
+    },
+    {
+     "path": "PHYMO/BANK1/P11.txt",
+     "file": "bin/phymo-files/BANK1/P11.txt",
+     "size": 781,
+     "sha256": "727ca8c8590403726934ed90eb1cba16afb87f4857eab16588bb3ca8144f8312"
+    },
+    {
+     "path": "PHYMO/BANK1/P12.txt",
+     "file": "bin/phymo-files/BANK1/P12.txt",
+     "size": 810,
+     "sha256": "ea010ea7706320337d6825e10bf3b415b5f64998c7f1628fb614714b3e5ad40e"
+    },
+    {
+     "path": "PHYMO/BANK1/P13.txt",
+     "file": "bin/phymo-files/BANK1/P13.txt",
+     "size": 790,
+     "sha256": "6311f0dd6a7c2014349c8930a83f9cd59c076b2feb1096d753deaa20895909c9"
+    },
+    {
+     "path": "PHYMO/BANK1/P14.txt",
+     "file": "bin/phymo-files/BANK1/P14.txt",
+     "size": 811,
+     "sha256": "dd827b7808607e298e26cdbbc834d6349394e7c3f06a422aea58c78df6683061"
+    },
+    {
+     "path": "PHYMO/BANK1/P15.txt",
+     "file": "bin/phymo-files/BANK1/P15.txt",
+     "size": 849,
+     "sha256": "6c0cf6e3cb9b0cd424a6c5f70ddf3cd3ffae621bae2c7c4ec71946525fc417e8"
+    },
+    {
+     "path": "PHYMO/BANK2/P01.txt",
+     "file": "bin/phymo-files/BANK2/P01.txt",
+     "size": 800,
+     "sha256": "0aeb6355014eba160a7bc45e6f1cf6050bb3e2927f83f23c3e797943fe89f9fb"
+    },
+    {
+     "path": "PHYMO/BANK2/P02.txt",
+     "file": "bin/phymo-files/BANK2/P02.txt",
+     "size": 787,
+     "sha256": "257805bbd9f906ca6d807987f608f504d23814e986cd08b13901a370fde50d8a"
+    },
+    {
+     "path": "PHYMO/BANK2/P03.txt",
+     "file": "bin/phymo-files/BANK2/P03.txt",
+     "size": 773,
+     "sha256": "86adc4f1d67e219b06c3eab87a8318f666a6fe2adf98b3ea8ef83a4ff5dbf0c6"
+    },
+    {
+     "path": "PHYMO/BANK2/P04.txt",
+     "file": "bin/phymo-files/BANK2/P04.txt",
+     "size": 739,
+     "sha256": "f7f8589ebc42deb67af63b2ebc8fddd9ff5a28b376934fda852e88e83335b5dc"
+    },
+    {
+     "path": "PHYMO/BANK2/P05.txt",
+     "file": "bin/phymo-files/BANK2/P05.txt",
+     "size": 734,
+     "sha256": "24779c192650a5f99b45df042408b8623420c73ae9e10fbd433d4e3dddda4f9b"
+    },
+    {
+     "path": "PHYMO/BANK2/P06.txt",
+     "file": "bin/phymo-files/BANK2/P06.txt",
+     "size": 797,
+     "sha256": "868f64bd4a751a550deb164e35b5c112a9ef302641bc0687d95b4ee23480796c"
+    },
+    {
+     "path": "PHYMO/BANK2/P07.txt",
+     "file": "bin/phymo-files/BANK2/P07.txt",
+     "size": 769,
+     "sha256": "ba1286e6f00a72ab3b5d69332b44ea8c779e24ad786b8d8e61383e983df63d94"
+    },
+    {
+     "path": "PHYMO/BANK2/P08.txt",
+     "file": "bin/phymo-files/BANK2/P08.txt",
+     "size": 810,
+     "sha256": "df208db2c7e0ad8dfb6bb6eca228d7e49e868f50581eb60a38283603300aae8f"
+    },
+    {
+     "path": "PHYMO/BANK2/P09.txt",
+     "file": "bin/phymo-files/BANK2/P09.txt",
+     "size": 810,
+     "sha256": "e9160acdeb5cf16cc8075853bf8bea535c1c8da8ce29d88901739ea147e136eb"
+    },
+    {
+     "path": "PHYMO/BANK2/P10.txt",
+     "file": "bin/phymo-files/BANK2/P10.txt",
+     "size": 764,
+     "sha256": "ed03e0fa20bc407c00874776b23fc96c545c800f81ed69d501abb4dfb0a73b75"
+    },
+    {
+     "path": "PHYMO/BANK2/P11.txt",
+     "file": "bin/phymo-files/BANK2/P11.txt",
+     "size": 731,
+     "sha256": "85c6e56e124ea084d6d25852de3e36767917b874c1d0da328768cb78b29c613e"
+    },
+    {
+     "path": "PHYMO/BANK2/P12.txt",
+     "file": "bin/phymo-files/BANK2/P12.txt",
+     "size": 874,
+     "sha256": "5c40ee8754ab6820dfc73944ab7a2fbf72da93ae5042e8da6500b5482fa6cf2d"
+    },
+    {
+     "path": "PHYMO/BANK2/P13.txt",
+     "file": "bin/phymo-files/BANK2/P13.txt",
+     "size": 799,
+     "sha256": "4622fe8f4bd679e67d5e67597392c2fb4cde76747e13ca7ff05aeeb9059865f5"
+    },
+    {
+     "path": "PHYMO/BANK2/P14.txt",
+     "file": "bin/phymo-files/BANK2/P14.txt",
+     "size": 810,
+     "sha256": "299785ac717aeea9d30f4e7411d4404559435728085a4f4614521a1506144cf6"
+    },
+    {
+     "path": "PHYMO/BANK2/P15.txt",
+     "file": "bin/phymo-files/BANK2/P15.txt",
+     "size": 809,
+     "sha256": "4151db024fcb19485b1022489a00aa91194ca25c612ea23f45b836ed0efe1935"
+    },
+    {
+     "path": "PHYMO/BANK3/P01.txt",
+     "file": "bin/phymo-files/BANK3/P01.txt",
+     "size": 780,
+     "sha256": "ff04521e0bbf1e4a400802105777eaaa19868ce666c109d2a5e29d5cd48d100e"
+    },
+    {
+     "path": "PHYMO/BANK3/P02.txt",
+     "file": "bin/phymo-files/BANK3/P02.txt",
+     "size": 792,
+     "sha256": "47eab3e363dba84d79c8ba7c01201de7d93198a973c48309a5785e60a51418c1"
+    },
+    {
+     "path": "PHYMO/BANK3/P03.txt",
+     "file": "bin/phymo-files/BANK3/P03.txt",
+     "size": 801,
+     "sha256": "501890c86c9845a386efbc8e3498fb47f4ad1936fa411ee4e923bcafcb6d6a1f"
+    },
+    {
+     "path": "PHYMO/BANK3/P04.txt",
+     "file": "bin/phymo-files/BANK3/P04.txt",
+     "size": 818,
+     "sha256": "bd5d55102abf36acb6bcbd3978dbe06da46531701f88101889585e3e4a258b80"
+    },
+    {
+     "path": "PHYMO/BANK3/P05.txt",
+     "file": "bin/phymo-files/BANK3/P05.txt",
+     "size": 810,
+     "sha256": "cd4aee290c5226d1ed7e5a320c50a82fe6a9b8a10f460830919d11f692aaa7b0"
+    },
+    {
+     "path": "PHYMO/BANK3/P06.txt",
+     "file": "bin/phymo-files/BANK3/P06.txt",
+     "size": 777,
+     "sha256": "77ae3eef9161837784884d51626e403e3114e89122532067a5a59b8b5572fa1d"
+    },
+    {
+     "path": "PHYMO/BANK3/P07.txt",
+     "file": "bin/phymo-files/BANK3/P07.txt",
+     "size": 783,
+     "sha256": "11b7bafa212bd86b2df8a9063ce3cbf2fc99118635d73de540db3e20c8917c4d"
+    },
+    {
+     "path": "PHYMO/BANK3/P08.txt",
+     "file": "bin/phymo-files/BANK3/P08.txt",
+     "size": 774,
+     "sha256": "532af1b64e544c86eed3688e92ec2c9a2f82f23b1351d12362d94644b594c4ae"
+    },
+    {
+     "path": "PHYMO/BANK3/P09.txt",
+     "file": "bin/phymo-files/BANK3/P09.txt",
+     "size": 781,
+     "sha256": "953b6b77a6a93176a78034aa601cf308b2cf0c1d51d8156267c357a9da10d873"
+    },
+    {
+     "path": "PHYMO/BANK3/P10.txt",
+     "file": "bin/phymo-files/BANK3/P10.txt",
+     "size": 789,
+     "sha256": "9230832a06f22f745c235fea4302ea3051ea051df75b61e533ec5dcdb31d9d37"
+    },
+    {
+     "path": "PHYMO/BANK3/P11.txt",
+     "file": "bin/phymo-files/BANK3/P11.txt",
+     "size": 798,
+     "sha256": "5a371c843d2bed86acbe9195c219b63a72e4e8764e75fa6df1765715df2d390f"
+    },
+    {
+     "path": "PHYMO/BANK3/P12.txt",
+     "file": "bin/phymo-files/BANK3/P12.txt",
+     "size": 795,
+     "sha256": "fde034e1186feea5487687a752553e08c01421ea8cbed84fbb7391cc632a1b86"
+    },
+    {
+     "path": "PHYMO/BANK3/P13.txt",
+     "file": "bin/phymo-files/BANK3/P13.txt",
+     "size": 783,
+     "sha256": "84a63ce0683cf134d3a1dd12f6e1a6e886b514cfcf6d7161f81341de556de181"
+    },
+    {
+     "path": "PHYMO/BANK3/P14.txt",
+     "file": "bin/phymo-files/BANK3/P14.txt",
+     "size": 797,
+     "sha256": "5fcb8168f0d06bb153df7e3a55f2d3a1347d03b1115f5fe37f802e8b8ee16e50"
+    },
+    {
+     "path": "PHYMO/BANK3/P15.txt",
+     "file": "bin/phymo-files/BANK3/P15.txt",
+     "size": 786,
+     "sha256": "35bd03dac5bc2be936b423854d794c809183382b66a0dc5cb0ed51a04695c07c"
+    },
+    {
+     "path": "PHYMO/BANK4/P01.txt",
+     "file": "bin/phymo-files/BANK4/P01.txt",
+     "size": 805,
+     "sha256": "7d13e2a624b5a96c62d59e9d8946b5cbfd64320eda93702d0a252b3b36883547"
+    },
+    {
+     "path": "PHYMO/BANK4/P02.txt",
+     "file": "bin/phymo-files/BANK4/P02.txt",
+     "size": 771,
+     "sha256": "80d11d6d50dcf7be088d442941cf0bddb92f8094740b137b9e7cd1c8c653ac2a"
+    },
+    {
+     "path": "PHYMO/BANK4/P03.txt",
+     "file": "bin/phymo-files/BANK4/P03.txt",
+     "size": 790,
+     "sha256": "7d08ba565901a958b0567a6cc2ff4cdf8ed96e18547cac57b9a00f32846742a8"
+    },
+    {
+     "path": "PHYMO/BANK4/P04.txt",
+     "file": "bin/phymo-files/BANK4/P04.txt",
+     "size": 793,
+     "sha256": "25f5ecaaa2861a8c201dcead5d4e114924d2c9df13c8207c54480bed8aa5085d"
+    },
+    {
+     "path": "PHYMO/BANK4/P05.txt",
+     "file": "bin/phymo-files/BANK4/P05.txt",
+     "size": 800,
+     "sha256": "9049a7b4f792b29572093573b379785766abab81fcf539308a1767238e83f57f"
+    },
+    {
+     "path": "PHYMO/BANK4/P06.txt",
+     "file": "bin/phymo-files/BANK4/P06.txt",
+     "size": 788,
+     "sha256": "2c57ef82d2e9f9b5b2cb10c49467a5bcee6baf25a969f4c6edc4c52fa3130be5"
+    },
+    {
+     "path": "PHYMO/BANK4/P07.txt",
+     "file": "bin/phymo-files/BANK4/P07.txt",
+     "size": 756,
+     "sha256": "06504d21fb062d58685e31d55d1969737f0122d778458dfaca693d693b7ef2ad"
+    },
+    {
+     "path": "PHYMO/BANK4/P08.txt",
+     "file": "bin/phymo-files/BANK4/P08.txt",
+     "size": 757,
+     "sha256": "7242df2987cd17f7806d1d02ea8dba5717ca7628d7a108d7ec7375fbc1aa54c4"
+    },
+    {
+     "path": "PHYMO/BANK4/P09.txt",
+     "file": "bin/phymo-files/BANK4/P09.txt",
+     "size": 766,
+     "sha256": "2ba2bcb66743e95d97e3f013b8bebaed3d766610610a4912518b5d9f5fae4b01"
+    },
+    {
+     "path": "PHYMO/BANK4/P10.txt",
+     "file": "bin/phymo-files/BANK4/P10.txt",
+     "size": 793,
+     "sha256": "636344b1dc6126ee4619083a1faada4b2a385ec58d07a5eb4273e99284d83c29"
+    },
+    {
+     "path": "PHYMO/BANK4/P11.txt",
+     "file": "bin/phymo-files/BANK4/P11.txt",
+     "size": 797,
+     "sha256": "c4a56e250f2bd83c2b28165f8d2931a96b0554c4a7c0acc0dd27f6f9293d95a2"
+    },
+    {
+     "path": "PHYMO/BANK4/P12.txt",
+     "file": "bin/phymo-files/BANK4/P12.txt",
+     "size": 812,
+     "sha256": "9391b4613a234e419f77b71dd5d7ae58b733cf3efdc9944710e38adbe04e15ea"
+    },
+    {
+     "path": "PHYMO/BANK4/P13.txt",
+     "file": "bin/phymo-files/BANK4/P13.txt",
+     "size": 750,
+     "sha256": "9006bbfc133b309b8b47ba7b6d324b50c8af6acd6d8703ebac1df23895782948"
+    },
+    {
+     "path": "PHYMO/BANK4/P14.txt",
+     "file": "bin/phymo-files/BANK4/P14.txt",
+     "size": 773,
+     "sha256": "df6ac15650a378c1bb2c27d17eddc443f178d671eba85ed2f088c2c032e1c862"
+    },
+    {
+     "path": "PHYMO/BANK4/P15.txt",
+     "file": "bin/phymo-files/BANK4/P15.txt",
+     "size": 765,
+     "sha256": "bcae7dc96977eed04a41d69ac77c1d0229b284d0d9e449225d1e2d93d0cb29e1"
+    },
+    {
+     "path": "PHYMO/BANK5/P01.txt",
+     "file": "bin/phymo-files/BANK5/P01.txt",
+     "size": 816,
+     "sha256": "c4a638fc64ebddebaae3bc20022a34284f8a8370e4dc581c993933eb4bdbf2dc"
+    },
+    {
+     "path": "PHYMO/BANK5/P02.txt",
+     "file": "bin/phymo-files/BANK5/P02.txt",
+     "size": 771,
+     "sha256": "bef9693bc8204f6e8cb5b91db36a8c4152189f309c80ae0a0e33140a3b3cb835"
+    },
+    {
+     "path": "PHYMO/BANK5/P03.txt",
+     "file": "bin/phymo-files/BANK5/P03.txt",
+     "size": 773,
+     "sha256": "254962d5626d2271bc3582da7e61a7c66f164b3c77705dd191bf6c4e209de7b3"
+    },
+    {
+     "path": "PHYMO/BANK5/P04.txt",
+     "file": "bin/phymo-files/BANK5/P04.txt",
+     "size": 792,
+     "sha256": "a564ec5fdfdda13f024a4e6b93b7df6e2195c32abf3d6b4b5f47859989222c3c"
+    },
+    {
+     "path": "PHYMO/BANK5/P05.txt",
+     "file": "bin/phymo-files/BANK5/P05.txt",
+     "size": 812,
+     "sha256": "ae5b0cdf962adb954e4e48a0bf22c23cc6c8a4ad6961bc9fd0f87c109ea206a9"
+    },
+    {
+     "path": "PHYMO/BANK5/P06.txt",
+     "file": "bin/phymo-files/BANK5/P06.txt",
+     "size": 787,
+     "sha256": "c2625137ecd9803c787b3e0c678e74428f7fb4662a94aabbe438daddf3773017"
+    },
+    {
+     "path": "PHYMO/BANK5/P07.txt",
+     "file": "bin/phymo-files/BANK5/P07.txt",
+     "size": 799,
+     "sha256": "de92048c553cfeba12b508faa26aefb05b3de01b846ba7e27d1a10aa1ab7f589"
+    },
+    {
+     "path": "PHYMO/BANK5/P08.txt",
+     "file": "bin/phymo-files/BANK5/P08.txt",
+     "size": 771,
+     "sha256": "ddf09f944ecda7b3856e739b0b467ee98fc6e46d4501f71841d05b998ed8be78"
+    },
+    {
+     "path": "PHYMO/BANK5/P09.txt",
+     "file": "bin/phymo-files/BANK5/P09.txt",
+     "size": 776,
+     "sha256": "5c0c7fbf3072cf53c71f2c94a407639a7ecfddceefcba2e9d517e6d51e1b0192"
+    },
+    {
+     "path": "PHYMO/BANK5/P10.txt",
+     "file": "bin/phymo-files/BANK5/P10.txt",
+     "size": 780,
+     "sha256": "e524651f93ae59e2350106258fbf1bd662b6eb7106c1e9c0f3579780335914d0"
+    },
+    {
+     "path": "PHYMO/BANK5/P11.txt",
+     "file": "bin/phymo-files/BANK5/P11.txt",
+     "size": 855,
+     "sha256": "16d93143273287e78adf3258e6c48dd43f71858b2c6e41791eb81c06d20a3410"
+    },
+    {
+     "path": "PHYMO/BANK5/P12.txt",
+     "file": "bin/phymo-files/BANK5/P12.txt",
+     "size": 809,
+     "sha256": "c5c306de5b846cda13414715f6972c914f12799b5fb9170e9ef3c07c76e66c0c"
+    },
+    {
+     "path": "PHYMO/BANK5/P13.txt",
+     "file": "bin/phymo-files/BANK5/P13.txt",
+     "size": 799,
+     "sha256": "9e4b35efff8f145f5eea36a91c6a93cbab3451b441ddb9c707ffde92beb51b0c"
+    },
+    {
+     "path": "PHYMO/BANK5/P14.txt",
+     "file": "bin/phymo-files/BANK5/P14.txt",
+     "size": 800,
+     "sha256": "78b65c46fb165ad64481dca2ae02823eaebcd9990ed8ef76ea307577ecb0afab"
+    },
+    {
+     "path": "PHYMO/BANK5/P15.txt",
+     "file": "bin/phymo-files/BANK5/P15.txt",
+     "size": 823,
+     "sha256": "f092df93783014df8d0cc73de1b8cb6095695f7124be5fa24e05f2c082d0735a"
+    }
+   ],
+   "filesWhat": "presets"
+  }
+ ],
+ "launcher": {
+  "version": "1.8.2",
+  "file": "bin/LAUNCHER-1.8.2.bin",
+  "size": 133576,
+  "sha256": "da73466b466ec4a38ac2e5b68f2bf9b81056e2008531114463b1854913964b85"
+ }
+}
