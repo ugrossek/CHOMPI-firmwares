@@ -60,13 +60,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 tools/firmwares.py build --out _site
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: steps.record.outputs.changed == 'true' || github.event_name != 'schedule'
         with:
           path: _site
 
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         if: steps.record.outputs.changed == 'true' || github.event_name != 'schedule'
 
       # One running log for the maintainer: a comment per batch of releases
