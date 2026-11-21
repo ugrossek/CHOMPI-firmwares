@@ -1,0 +1,17 @@
+{
+  "versions": [
+    {
+      "tag": "v1.0",
+      "version": "1.0",
+      "prerelease": false,
+      "published": "2026-11-16T01:54:28Z",
+      "url": "https://github.com/theotherson/chompi-phymo/releases/tag/v1.0",
+      "asset": "CHOMPI.bin",
+      "asset_id": 753060167,
+      "asset_updated": "2026-11-16T01:54:28Z",
+      "download": "https://github.com/theotherson/chompi-phymo/releases/download/v1.0/CHOMPI.bin",
+      "size": 292228,
+      "sha256": "1b17347325fc254b05ea550891a8c82afe650ae6ade807b0163bd5709457e891"
+    }
+  ]
+}
