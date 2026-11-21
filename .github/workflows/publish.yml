@@ -24,9 +24,8 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+    outputs:
+      site: ${{ steps.site.outputs.site }}
     steps:
       - uses: actions/checkout@v4
 
@@ -65,9 +64,10 @@ jobs:
         with:
           path: _site
 
-      - id: deploy
-        uses: actions/deploy-pages@v5
+      - name: Mark the site for the deploy job
+        id: site
         if: steps.record.outputs.changed == 'true' || github.event_name != 'schedule'
+        run: echo "site=true" >> "$GITHUB_OUTPUT"
 
       # One running log for the maintainer: a comment per batch of releases
       # on the issue labelled release-log.
@@ -83,3 +83,18 @@ jobs:
                   --body "New releases the publish workflow put on the setup page. Unsubscribe to stop the notifications." | grep -o '[0-9]*$')
           fi
           gh issue comment "$n" --body-file report.md
+
+  # A job of its own, as in GitHub's Pages template: on 2026-11-21 the deploy
+  # step, run right after the upload in the same job, found no artifact (the
+  # list lagged behind the upload). A separate job also lets a failed deploy be
+  # re-run alone without uploading a second artifact.
+  deploy:
+    needs: publish
+    if: needs.publish.outputs.site == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v5
