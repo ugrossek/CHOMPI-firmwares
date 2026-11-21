@@ -1,0 +1,14 @@
+{
+  "title": "PHYMO",
+  "card": "PHYMO",
+  "author": "Jero",
+  "summary": "A physical modelling synthesizer with five distinct engines for sound design and sequencing",
+  "maintainers": ["theotherson"],
+  "folder": "PHYMO",
+  "files": { "path": "presets", "match": "\\.txt$", "what": "presets" },
+  "source": {
+    "repo": "theotherson/chompi-phymo",
+    "tag": "^v(?P<v>.*)$",
+    "asset": "^CHOMPI\\.bin$"
+  }
+}
